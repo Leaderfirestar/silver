@@ -1,3 +1,5 @@
 {
-  "item.silver.silver_ingot" : "Silver Ingot"
+  "item.silver.silver_ingot" : "Silver Ingot",
+  "block.silver.silver_ore": "Silver Ore",
+  "block.silver.silver_block": "Block of Silver"
 }
