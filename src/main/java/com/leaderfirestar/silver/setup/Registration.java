@@ -16,5 +16,6 @@ public class Registration {
         Blocks.register(modEventBus);
         Items.register(modEventBus);
         ModItems.register();
+        ModBlocks.register();
     }
 }
